@@ -17,12 +17,9 @@ imagem em anexo na aula.
 
 ### Resultado
 
-![Imagem](src/images/projeto.gif)
-<<<<<<< HEAD
+![](src/images/projeto.gif)
 
-[Formulário de Validação com JS](https://guilherme-dangelo.github.io/formulario-com-js-intermediario/)
-=======
->>>>>>> 4932a7b2bfe5d34a4430d6186a25030301f5d708
+[Formulário de Validação com JS](https://guilherme-dangelo.github.io/formulario-com-validacao-js-intermediario/)
 
 ## Meu processo
 
